@@ -1,0 +1,98 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.cxmlpunchout</groupId>
+  <artifactId>core-cxmlpunchout-interface</artifactId>
+  <version>1.0.1.4-SNAPSHOT</version>
+  <name>core-cxmlpunchout-interface</name>
+  <url>http://maven.apache.org</url>
+
+<parent>
+      <groupId>com.cxmlpunchout</groupId>
+      <artifactId>project_cxmlpunchoutinterface</artifactId>
+      <version>1.0.1.4-SNAPSHOT</version>
+ </parent>
+
+	<build>
+	    <plugins>
+	     	<plugin>
+	           <artifactId>maven-compiler-plugin</artifactId>
+	           <version>2.0.2</version>
+	         </plugin>
+	   </plugins>
+	   <testSourceDirectory>src/test</testSourceDirectory>
+	   
+   </build>
+
+  <dependencies>
+
+    <dependency>
+      	<groupId>log4j</groupId>
+  		<artifactId>log4j</artifactId>
+  		<version>1.2.9</version>
+    </dependency>
+
+    <dependency>
+      	<groupId>javax.servlet</groupId>
+  		<artifactId>servlet-api</artifactId>
+  		<version>2.3</version>
+    </dependency>
+
+    <dependency>
+      	<groupId>dom4j</groupId>
+  		<artifactId>dom4j</artifactId>
+  		<version>1.6.1</version>
+    </dependency>
+
+	<dependency>
+	 	 <groupId>com.smartequip.interface</groupId>
+  		<artifactId>core-interface-common</artifactId>
+  		<version>1.0.0.0</version>
+ 	</dependency>
+
+ 	<dependency>
+   		<groupId>commons-beanutils</groupId>
+  		<artifactId>commons-beanutils</artifactId>
+ 		 <version>1.6</version>
+ 	</dependency>
+
+ 	<dependency>
+   		<groupId>commons-lang</groupId>
+  		<artifactId>commons-lang</artifactId>
+ 		 <version>2.4</version>
+ 	</dependency>
+
+ 	<dependency>
+   		<groupId>crimson</groupId>
+  		<artifactId>crimson</artifactId>
+  		<version>1.1.3</version>
+ 	</dependency>
+
+    <dependency>
+        <groupId>javax.xml.bind</groupId>
+        <artifactId>jaxb-api</artifactId>
+        <version>2.1</version>
+    </dependency>
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.8.1</version>
+
+    </dependency>
+    <dependency>
+    	<groupId>com.smartequip.common</groupId>
+    	<artifactId>core</artifactId>
+    	<version>2.4.0</version>
+    </dependency>
+  </dependencies>
+
+  <properties>
+        <!-- Project settings -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.site>scp://artifactory.smartequip.net/var/www/html/sites/${project.artifactId}
+        </project.site>
+        <cargo.jvmargs />
+    </properties>
+
+
+
+</project>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.014/cXML.dtd">
+<cXML timestamp="2011-01-29 01:41:23" payloadID="2011-01-29.03:41:47-0600.69851729@gebopsqa" version="1.2.011">
+	<Header>
+		<From>
+			<Credential domain="NetworkId">
+				<Identity>SUNBELTRENTALS</Identity>
+			</Credential>
+		</From>
+		<To>
+			<Credential domain="DUNS">
+				<Identity>159148746</Identity>
+			</Credential>
+		</To>
+		<Sender>
+			<Credential domain="NetworkId">
+				<Identity>SUNBELTRENTALS</Identity>
+				<SharedSecret>SUNBELTRENTALS</SharedSecret>
+			</Credential>
+			<UserAgent>Test</UserAgent>
+		</Sender>
+	</Header>
+	<Request deploymentMode="test">
+		<OrderRequest>
+			<OrderRequestHeader orderDate="2011-01-29"
+				orderID="9819755" type="new" orderType="standard">
+				<Total>
+					<Money currency="USD">194.18</Money>
+				</Total>
+				<ShipTo>
+					<Address isoCountryCode="US" addressID="SUNBELTRENTALS">
+						<Name xml:lang="en-US">test</Name>
+						<PostalAddress name="SUNBELTRENTALS">
+							<DeliverTo>test</DeliverTo>
+							<Street>20 glover avenue</Street>
+							<Street>norwalk</Street>
+							<City>norwalk</City>
+							<State>CT</State>
+							<PostalCode>06854</PostalCode>
+							<Country isoCountryCode="US">US</Country>
+						</PostalAddress>
+						<Email>allwins.rajaiah@marlabs.com</Email>
+						<Phone>
+							<TelephoneNumber>
+								<CountryCode isoCountryCode="US" />
+								<AreaOrCityCode />
+								<Number>468-352-3546</Number>
+							</TelephoneNumber>
+						</Phone>
+					</Address>
+				</ShipTo>
+				<BillTo>
+					<Address isoCountryCode="US" addressID="SUNBELTRENTALS">
+						<Name xml:lang="en-US">test</Name>
+						<PostalAddress name="SUNBELTRENTALS">
+							<DeliverTo>CHARLOTTE PC001</DeliverTo>
+							<Street>1234 EQUIPMENT DRIVE</Street>
+							<Street />
+							<City>CHARLOTTE</City>
+							<State>NC</State>
+							<PostalCode>28262</PostalCode>
+							<Country isoCountryCode="US">US</Country>
+						</PostalAddress>
+						<Email>allwins.rajaiah@marlabs.com</Email>
+						<Phone>
+							<TelephoneNumber>
+								<CountryCode isoCountryCode="US" />
+								<AreaOrCityCode />
+								<Number>7045995967</Number>
+							</TelephoneNumber>
+						</Phone>
+					</Address>
+				</BillTo>
+				<Comments />
+			</OrderRequestHeader>
+			<ItemOut quantity="2" lineNumber="7940">
+				<ItemID>
+					<SupplierPartID>1MEL8</SupplierPartID>
+					<SupplierPartAuxiliaryID>WWG1MEL8</SupplierPartAuxiliaryID>
+				</ItemID>
+				<ItemDetail>
+					<UnitPrice>
+						<Money currency="USD">194.180</Money>
+					</UnitPrice>
+					<Description xml:lang="en-US">Concrete Blades, Floor
+						Preparation</Description>
+					<UnitOfMeasure>EA</UnitOfMeasure>
+					<ManufacturerPartID />
+					<ManufacturerName>GRAINGER</ManufacturerName>
+					<Extrinsic name="SupplierExtrinsicInfo"><![CDATA[<OtherOrderTarget>526</OtherOrderTarget><Contact><Name xml:lang='en-US'>a a</Name><Email>allwnis.rajaiah@marlabs.com</Email><Phone name='Office'><TelephoneNumber><CountryCode isoCountryCode='US'>011</CountryCode><AreaOrCityCode>212</AreaOrCityCode><Number>1212121</Number></TelephoneNumber></Phone></Contact>]]></Extrinsic>
+					<Extrinsic name="ListPrice">194.18</Extrinsic>
+					<Extrinsic name="FreightClassCode">18</Extrinsic>
+					<Extrinsic name="Vendor_Min_Quantity">1</Extrinsic>
+				</ItemDetail>
+			</ItemOut>
+		</OrderRequest>
+	</Request>
+</cXML>

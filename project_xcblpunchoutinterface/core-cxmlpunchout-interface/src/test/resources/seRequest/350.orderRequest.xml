@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<request>
+	<reqtype>OrderCreate</reqtype>
+	<hdrrec>
+		<doctype />
+		<salesorg />
+		<username>SUNBELTRENTALS</username>
+		<password>SUNBELTRENTALS</password>
+		<custAcctNum>SUNBELTRENTALS</custAcctNum>
+		<distchannel />
+		<division />
+		<prtnrole>AG</prtnrole>
+		<prtnnum>SUNBELTRENTALS</prtnnum>
+		<shipto />
+		<setshipto />
+		<plant />
+		<slsoffice />
+		<po>9819750</po>
+		<name>smartpart</name>
+		<phone>704-599-5967</phone>
+		<email>allwins.rajaiah@marlabs.com</email>
+		<shipprtnr>226847</shipprtnr>
+		<curr>USD</curr>
+		<salestype>standard</salestype>
+		<shiptype>No</shiptype>
+		<freightterm />
+		<freighttermdesc>Already Chosen</freighttermdesc>
+		<shipviaacct />
+		<shipviaid />
+		<shipmethod>CUSTOMER PICK UP:-</shipmethod>
+		<pricecode />
+		<comment />
+		<payment />
+		<paymentdesc>Already Chosen</paymentdesc>
+		<userid>58</userid>
+		<total>194.18</total>
+		<statusid>2</statusid>
+		<order-for>smartpart</order-for>
+		<ordertype>15164</ordertype>
+		<freighttermlevel />
+		<freighttermservicelevel />
+		<parceltermlevel />
+		<parceltermservicelevel />
+		<freightaccount />
+		<ordertypepartnernumber />
+		<shipmethodid>15176</shipmethodid>
+		<reqdate>2011-01-28</reqdate>
+		<pterms>15169</pterms>
+		<fterms>15170</fterms>
+		<prnum />
+		<replytotype>e-mail</replytotype>
+		<replyto />
+		<mfrid>350</mfrid>
+		<extvendnum>55</extvendnum>
+		<vendorid>350</vendorid>
+		<cctype>null</cctype>
+		<ccnum>null</ccnum>
+		<ccname />
+		<ccdate>null</ccdate>
+		<seorderid>110128044355100058</seorderid>
+		<reasoncode />
+		<custdbpool>CSUNDEV2</custdbpool>
+		<admindbpool>SEADMIN</admindbpool>
+		<secustomerid>97</secustomerid>
+		<locationID>001</locationID>
+		<seOrderID>110128044355100058</seOrderID>
+		<reqstoreid />
+		<ordertypedesc>Standard</ordertypedesc>
+		<paymentTerms />
+	</hdrrec>
+	<shippingAddress>
+		<name>test</name>
+		<addressID>SUNBELTRENTALS</addressID>
+		<addr1>20 glover avenue</addr1>
+		<addr2>norwalk</addr2>
+		<city>norwalk</city>
+		<state>CT</state>
+		<zip>06854</zip>
+		<phone>468-352-3546</phone>
+		<cntry>US</cntry>
+	</shippingAddress>
+	<dsname />
+	<dsaddr1 />
+	<dsaddr2 />
+	<dscity />
+	<dsstate />
+	<dszip />
+	<dsphone />
+	<dscountry />
+	<billingaddress>
+		<bname>CHARLOTTE PC001</bname>
+		<baddr1>1234 EQUIPMENT DRIVE</baddr1>
+		<baddr2 />
+		<bcity>CHARLOTTE</bcity>
+		<bstate>NC</bstate>
+		<bzip>28262</bzip>
+		<bphone>7045995967</bphone>
+		<bcountry>US</bcountry>
+	</billingaddress>
+	<partrec>
+		<itemnum>7932</itemnum>
+		<plant />
+		<partnum>1MEL8</partnum>
+		<qty>1</qty>
+		<confqty />
+		<confdate />
+		<uom>EA</uom>
+		<price>194.180</price>
+		<netprice>194.18</netprice>
+		<discount>0.00</discount>
+		<pricomment>grainger with comments</pricomment>
+		<distributorid />
+		<partdesc>Concrete Blades, Floor Preparation</partdesc>
+		<partsrc>GRAINGER</partsrc>
+		<shipdate />
+		<shipmethod />
+		<fterms />
+		<ModelNumber />
+		<Make />
+		<Family />
+		<supplierorderid>WWG1MEL8</supplierorderid>
+		<extrinsic>
+			<Vendor_Min_Quantity>1</Vendor_Min_Quantity>
+			<FreightClassCode>18</FreightClassCode>
+			<ListPrice>194.18</ListPrice>
+		</extrinsic>
+	</partrec>
+</request>

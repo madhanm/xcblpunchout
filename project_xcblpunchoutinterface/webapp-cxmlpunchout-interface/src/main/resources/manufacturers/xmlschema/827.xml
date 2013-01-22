@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.014/cXML.dtd">
+<cXML timestamp="cxml.timestamp" payloadID="cxml.payloadId"
+	version="1.2.011">
+	<Header>
+		<From>
+			<Credential domain="NetworkId">
+				<Identity>cxml.username</Identity>
+			</Credential>
+		</From>
+		<To>
+			<Credential domain="DUNS">
+				<Identity>cxml.duns</Identity>
+			</Credential>
+		</To>
+		<Sender>
+			<Credential domain="NetworkId">
+				<Identity>cxml.username</Identity>
+				<SharedSecret>cxml.password</SharedSecret>
+			</Credential>
+			<UserAgent>SmartEquip Punchout Component</UserAgent>
+		</Sender>
+	</Header>
+	<Request deploymentMode="test">
+		<OrderRequest>
+			<OrderRequestHeader orderDate="cxml.orderDate"
+				orderID="cxml.po" type="new" orderType="cxml.salestype" shipComplete="cxml.shiptype">
+				<Total>
+					<Money currency="cxml.curr">cxml.total</Money>
+				</Total>
+				<ShipTo>
+					<Address isoCountryCode="cxml.cntry" addressID="cxml.locationID">
+						<Name xml:lang="cxml.lang">cxml.name</Name>
+						<PostalAddress name="cxml.default.value">
+							<DeliverTo>cxml.name</DeliverTo>
+							<Street>cxml.addr1</Street>
+							<Street>cxml.addr2</Street>
+							<City>cxml.city</City>
+							<State>cxml.state</State>
+							<PostalCode>cxml.zip</PostalCode>
+							<Country isoCountryCode="cxml.cntry">cxml.cntry</Country>
+						</PostalAddress>
+						<Email>cxml.email</Email>
+						<Phone>
+							<TelephoneNumber>
+								<CountryCode isoCountryCode="cxml.cntry" />
+								<AreaOrCityCode></AreaOrCityCode>
+								<Number>cxml.phone</Number>
+							</TelephoneNumber>
+						</Phone>
+						<Fax>
+							<TelephoneNumber>
+								<CountryCode isoCountryCode="cxml.cntry" />
+								<AreaOrCityCode></AreaOrCityCode>
+								<Number>cxml.replyto</Number>
+							</TelephoneNumber>
+						</Fax>
+					</Address>
+				</ShipTo>
+				<BillTo>
+					<Address isoCountryCode="cxml.bcountry" addressID="cxml.locationID">
+						<Name xml:lang="cxml.lang">cxml.bname</Name>
+						<PostalAddress name="cxml.default.value">
+							<DeliverTo>cxml.bname</DeliverTo>
+							<Street>cxml.baddr1</Street>
+							<Street>cxml.baddr2</Street>
+							<City>cxml.bcity</City>
+							<State>cxml.bstate</State>
+							<PostalCode>cxml.bzip</PostalCode>
+							<Country isoCountryCode="cxml.bcountry">cxml.bcountry</Country>
+						</PostalAddress>
+						<Email>cxml.email</Email>
+						<Phone>
+							<TelephoneNumber>
+								<CountryCode isoCountryCode="cxml.bcountry" />
+								<AreaOrCityCode />
+								<Number>cxml.bphone</Number>
+							</TelephoneNumber>
+						</Phone>
+					</Address>
+				</BillTo>
+				<Comments>cxml.comment</Comments>
+			</OrderRequestHeader>
+			<ItemOut quantity="cxml.qty" lineNumber="cxml.itemnum">
+				<ItemID>
+					<SupplierPartID>cxml.partnum</SupplierPartID>
+					<SupplierPartAuxiliaryID>cxml.supplierorderid</SupplierPartAuxiliaryID>
+				</ItemID>
+				<ItemDetail>
+					<UnitPrice>
+						<Money currency="cxml.curr">cxml.netprice</Money>
+					</UnitPrice>
+					<Description xml:lang="cxml.lang">cxml.partdesc</Description>
+					<UnitOfMeasure>cxml.uom</UnitOfMeasure>
+					<ManufacturerPartID>cxml.distributorid</ManufacturerPartID>
+					<ManufacturerName>cxml.partsrc</ManufacturerName>
+					<Extrinsic name="cxml.extrinsic.name">cxml.extrinsic.value</Extrinsic>
+				</ItemDetail>
+			</ItemOut>
+		</OrderRequest>
+	</Request>
+</cXML>

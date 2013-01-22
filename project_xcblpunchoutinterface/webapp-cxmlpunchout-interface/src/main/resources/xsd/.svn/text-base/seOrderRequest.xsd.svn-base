@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="request">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="reqtype"/>
+        <xs:element ref="hdrrec"/>
+        <xs:element ref="shippingAddress"/>
+        <xs:element ref="dsname"/>
+        <xs:element ref="dsaddr1"/>
+        <xs:element ref="dsaddr2"/>
+        <xs:element ref="dscity"/>
+        <xs:element ref="dsstate"/>
+        <xs:element ref="dszip"/>
+        <xs:element ref="dsphone"/>
+        <xs:element ref="dscountry"/>
+        <xs:element ref="billingaddress"/>
+        <xs:element ref="partrec"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="reqtype" type="xs:NCName"/>
+  <xs:element name="hdrrec">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="doctype"/>
+        <xs:element ref="salesorg"/>
+        <xs:element ref="username"/>
+        <xs:element ref="password"/>
+        <xs:element ref="custAcctNum"/>
+        <xs:element ref="distchannel"/>
+        <xs:element ref="division"/>
+        <xs:element ref="prtnrole"/>
+        <xs:element ref="prtnnum"/>
+        <xs:element ref="shipto"/>
+        <xs:element ref="setshipto"/>
+        <xs:element ref="plant"/>
+        <xs:element ref="slsoffice"/>
+        <xs:element ref="po"/>
+        <xs:element ref="name"/>
+        <xs:element ref="phone"/>
+        <xs:element ref="email"/>
+        <xs:element ref="shipprtnr"/>
+        <xs:element ref="curr"/>
+        <xs:element ref="salestype"/>
+        <xs:element ref="shiptype"/>
+        <xs:element ref="freightterm"/>
+        <xs:element ref="freighttermdesc"/>
+        <xs:element ref="shipviaacct"/>
+        <xs:element ref="shipviaid"/>
+        <xs:element ref="shipmethod"/>
+        <xs:element ref="pricecode"/>
+        <xs:element ref="comment"/>
+        <xs:element ref="payment"/>
+        <xs:element ref="paymentdesc"/>
+        <xs:element ref="userid"/>
+        <xs:element ref="total"/>
+        <xs:element ref="statusid"/>
+        <xs:element ref="order-for"/>
+        <xs:element ref="ordertype"/>
+        <xs:element ref="freighttermlevel"/>
+        <xs:element ref="freighttermservicelevel"/>
+        <xs:element ref="parceltermlevel"/>
+        <xs:element ref="parceltermservicelevel"/>
+        <xs:element ref="freightaccount"/>
+        <xs:element ref="ordertypepartnernumber"/>
+        <xs:element ref="shipmethodid"/>
+        <xs:element ref="reqdate"/>
+        <xs:element ref="pterms"/>
+        <xs:element ref="fterms"/>
+        <xs:element ref="prnum"/>
+        <xs:element ref="replytotype"/>
+        <xs:element ref="replyto"/>
+        <xs:element ref="mfrid"/>
+        <xs:element ref="extvendnum"/>
+        <xs:element ref="vendorid"/>
+        <xs:element ref="cctype"/>
+        <xs:element ref="ccnum"/>
+        <xs:element ref="ccname"/>
+        <xs:element ref="ccdate"/>
+        <xs:element ref="seorderid"/>
+        <xs:element ref="reasoncode"/>
+        <xs:element ref="custdbpool"/>
+        <xs:element ref="admindbpool"/>
+        <xs:element ref="secustomerid"/>
+        <xs:element ref="locationID"/>
+        <xs:element ref="seOrderID"/>
+        <xs:element ref="reqstoreid"/>
+        <xs:element ref="ordertypedesc"/>
+        <xs:element ref="paymentTerms"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="doctype" type="xs:NCName"/>
+  <xs:element name="salesorg" type="xs:NCName"/>
+  <xs:element name="username" type="xs:NCName"/>
+  <xs:element name="password" type="xs:string"/>
+  <xs:element name="custAcctNum" type="xs:NCName"/>
+  <xs:element name="distchannel" type="xs:NCName"/>
+  <xs:element name="division" type="xs:NCName"/>
+  <xs:element name="prtnrole" type="xs:NCName"/>
+  <xs:element name="prtnnum" type="xs:NCName"/>
+  <xs:element name="shipto" type="xs:NCName"/>
+  <xs:element name="setshipto" type="xs:NCName"/>
+  <xs:element name="slsoffice" type="xs:NCName"/>
+  <xs:element name="po" type="xs:integer"/>
+  <xs:element name="email" type="xs:string"/>
+  <xs:element name="shipprtnr" type="xs:integer"/>
+  <xs:element name="curr" type="xs:NCName"/>
+  <xs:element name="salestype" type="xs:NCName"/>
+  <xs:element name="shiptype" type="xs:NCName"/>
+  <xs:element name="freightterm" type="xs:NCName"/>
+  <xs:element name="freighttermdesc" type="xs:string"/>
+  <xs:element name="shipviaacct" type="xs:NCName"/>
+  <xs:element name="shipviaid" type="xs:NCName"/>
+  <xs:element name="pricecode" type="xs:NCName"/>
+  <xs:element name="comment" type="xs:NCName"/>
+  <xs:element name="payment" type="xs:integer"/>
+  <xs:element name="paymentdesc" type="xs:string"/>
+  <xs:element name="userid" type="xs:integer"/>
+  <xs:element name="total" type="xs:decimal"/>
+  <xs:element name="statusid" type="xs:integer"/>
+  <xs:element name="order-for" type="xs:NCName"/>
+  <xs:element name="ordertype" type="xs:integer"/>
+  <xs:element name="freighttermlevel" type="xs:NCName"/>
+  <xs:element name="freighttermservicelevel" type="xs:NCName"/>
+  <xs:element name="parceltermlevel" type="xs:NCName"/>
+  <xs:element name="parceltermservicelevel" type="xs:integer"/>
+  <xs:element name="freightaccount" type="xs:integer"/>
+  <xs:element name="ordertypepartnernumber" type="xs:integer"/>
+  <xs:element name="shipmethodid" type="xs:integer"/>
+  <xs:element name="reqdate" type="xs:NMTOKEN"/>
+  <xs:element name="pterms" type="xs:integer"/>
+  <xs:element name="prnum" type="xs:integer"/>
+  <xs:element name="replytotype" type="xs:NCName"/>
+  <xs:element name="replyto" type="xs:NCName"/>
+  <xs:element name="mfrid" type="xs:integer"/>
+  <xs:element name="extvendnum" type="xs:integer"/>
+  <xs:element name="vendorid" type="xs:integer"/>
+  <xs:element name="cctype" type="xs:NCName"/>
+  <xs:element name="ccnum" type="xs:NCName"/>
+  <xs:element name="ccname" type="xs:NCName"/>
+  <xs:element name="ccdate" type="xs:string"/>
+  <xs:element name="seorderid" type="xs:integer"/>
+  <xs:element name="reasoncode" type="xs:integer"/>
+  <xs:element name="custdbpool" type="xs:NCName"/>
+  <xs:element name="admindbpool" type="xs:NCName"/>
+  <xs:element name="secustomerid" type="xs:integer"/>
+  <xs:element name="locationID" type="xs:integer"/>
+  <xs:element name="seOrderID" type="xs:integer"/>
+  <xs:element name="reqstoreid" type="xs:integer"/>
+  <xs:element name="ordertypedesc" type="xs:string"/>
+  <xs:element name="paymentTerms" type="xs:NCName"/>
+  <xs:element name="shippingAddress">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="name"/>
+        <xs:element ref="addressID"/>
+        <xs:element ref="addr1"/>
+        <xs:element ref="addr2"/>
+        <xs:element ref="city"/>
+        <xs:element ref="state"/>
+        <xs:element ref="zip"/>
+        <xs:element ref="phone"/>
+        <xs:element ref="cntry"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="addressID" type="xs:NCName"/>
+  <xs:element name="addr1" type="xs:string"/>
+  <xs:element name="addr2" type="xs:NCName"/>
+  <xs:element name="city" type="xs:NCName"/>
+  <xs:element name="state" type="xs:NCName"/>
+  <xs:element name="zip" type="xs:NMTOKEN"/>
+  <xs:element name="cntry" type="xs:NCName"/>
+  <xs:element name="dsname" type="xs:NCName"/>
+  <xs:element name="dsaddr1" type="xs:NCName"/>
+  <xs:element name="dsaddr2" type="xs:NCName"/>
+  <xs:element name="dscity" type="xs:NCName"/>
+  <xs:element name="dsstate" type="xs:NCName"/>
+  <xs:element name="dszip" type="xs:integer"/>
+  <xs:element name="dsphone" type="xs:integer"/>
+  <xs:element name="dscountry" type="xs:NCName"/>
+  <xs:element name="billingaddress">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="bname"/>
+        <xs:element ref="baddr1"/>
+        <xs:element ref="baddr2"/>
+        <xs:element ref="bcity"/>
+        <xs:element ref="bstate"/>
+        <xs:element ref="bzip"/>
+        <xs:element ref="bphone"/>
+        <xs:element ref="bcountry"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="bname" type="xs:string"/>
+  <xs:element name="baddr1" type="xs:string"/>
+  <xs:element name="baddr2" type="xs:NCName"/>
+  <xs:element name="bcity" type="xs:NCName"/>
+  <xs:element name="bstate" type="xs:NCName"/>
+  <xs:element name="bzip" type="xs:NMTOKEN"/>
+  <xs:element name="bphone" type="xs:NMTOKEN"/>
+  <xs:element name="bcountry" type="xs:NCName"/>
+  <xs:element name="partrec">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="itemnum"/>
+        <xs:element ref="plant"/>
+        <xs:element ref="partnum"/>
+        <xs:element ref="qty"/>
+        <xs:element ref="confqty"/>
+        <xs:element ref="confdate"/>
+        <xs:element ref="uom"/>
+        <xs:element ref="price"/>
+        <xs:element ref="netprice"/>
+        <xs:element ref="discount"/>
+        <xs:element ref="pricomment"/>
+        <xs:element ref="distributorid"/>
+        <xs:element ref="partdesc"/>
+        <xs:element ref="partsrc"/>
+        <xs:element ref="shipdate"/>
+        <xs:element ref="shipmethod"/>
+        <xs:element ref="fterms"/>
+        <xs:element ref="ModelNumber"/>
+        <xs:element ref="Make"/>
+        <xs:element ref="Family"/>
+        <xs:element ref="supplierorderid"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="itemnum" type="xs:integer"/>
+  <xs:element name="partnum" type="xs:NCName"/>
+  <xs:element name="qty" type="xs:integer"/>
+  <xs:element name="confqty" type="xs:integer"/>
+  <xs:element name="confdate" type="xs:string"/>
+  <xs:element name="uom" type="xs:NCName"/>
+  <xs:element name="price" type="xs:decimal"/>
+  <xs:element name="netprice" type="xs:decimal"/>
+  <xs:element name="discount" type="xs:decimal"/>
+  <xs:element name="pricomment" type="xs:NCName"/>
+  <xs:element name="distributorid" type="xs:integer"/>
+  <xs:element name="partdesc" type="xs:string"/>
+  <xs:element name="partsrc" type="xs:NCName"/>
+  <xs:element name="shipdate" type="xs:string"/>
+  <xs:element name="ModelNumber" type="xs:NMTOKEN"/>
+  <xs:element name="Make" type="xs:NCName"/>
+  <xs:element name="Family" type="xs:NCName"/>
+  <xs:element name="supplierorderid" type="xs:string"/>
+  <xs:element name="plant" type="xs:NCName"/>
+  <xs:element name="name" type="xs:string"/>
+  <xs:element name="phone" type="xs:NMTOKEN"/>
+  <xs:element name="shipmethod" type="xs:string"/>
+  <xs:element name="fterms" type="xs:NMTOKEN"/>
+</xs:schema>

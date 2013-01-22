@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.cxmlpunchout</groupId>
+	<artifactId>project_cxmlpunchoutinterface</artifactId>
+	<version>1.0.1.4-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>project_cxmlpunchoutinterface</name>
+	<url>http://www.smartequip.com</url>
+
+	<description>
+        Parent POM for interface cxmlpunchout.
+    </description>
+
+
+	<modules>
+		<module>core-cxmlpunchout-interface</module>
+		<module>webapp-cxmlpunchout-interface</module>
+	</modules>
+
+	<parent>
+		<groupId>com.smartequip.build</groupId>
+		<artifactId>master-pom</artifactId>
+		<version>3.0.2.2</version>
+	</parent>
+
+	<scm>
+		<connection>scm:svn:http://svn.smartequip.net/svn/repos/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface</connection>
+		<developerConnection>scm:svn:http://svn.smartequip.net/svn/repos/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface</developerConnection>
+		<url>http://svn.smartequip.net/svn/repos/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface</url>
+	</scm>
+</project>

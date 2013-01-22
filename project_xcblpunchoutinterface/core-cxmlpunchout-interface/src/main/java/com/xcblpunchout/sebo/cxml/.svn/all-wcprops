@@ -1,0 +1,1949 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml
+END
+SubscriptionListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SubscriptionListResponse.java
+END
+TaxInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/TaxInformation.java
+END
+CXML.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CXML.java
+END
+CorporateInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CorporateInformation.java
+END
+ShipTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ShipTo.java
+END
+Object.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Object.java
+END
+PaymentPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PaymentPartner.java
+END
+LimitedMileage.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/LimitedMileage.java
+END
+CatalogName.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CatalogName.java
+END
+DocumentationReferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DocumentationReferences.java
+END
+SignatureProductionPlace.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignatureProductionPlace.java
+END
+OrganizationDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrganizationDataResponse.java
+END
+NoticeNumbers.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/NoticeNumbers.java
+END
+SupplierChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SupplierChangeMessage.java
+END
+DataAvailableMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DataAvailableMessage.java
+END
+AuthResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AuthResponse.java
+END
+OrganizationID.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrganizationID.java
+END
+ItemSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ItemSegment.java
+END
+Include.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Include.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Message.java
+END
+LegalName.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/LegalName.java
+END
+OrderReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrderReference.java
+END
+Accounting.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Accounting.java
+END
+Rate.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Rate.java
+END
+GetPendingRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/GetPendingRequest.java
+END
+RetrievalMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/RetrievalMethod.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ObjectFactory.java
+END
+Commodity.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Commodity.java
+END
+AttachmentReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AttachmentReference.java
+END
+Payment.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Payment.java
+END
+AttributeRevocationValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AttributeRevocationValues.java
+END
+DigestMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DigestMethod.java
+END
+ContractorIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ContractorIdentifier.java
+END
+PolicyViolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PolicyViolation.java
+END
+ItemIDElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ItemIDElement.java
+END
+SigPolicyQualifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SigPolicyQualifiers.java
+END
+RevocationValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/RevocationValues.java
+END
+PayableInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PayableInfo.java
+END
+UnitRate.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/UnitRate.java
+END
+EncapsulatedX509Certificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/EncapsulatedX509Certificate.java
+END
+TriangularTransactionLawReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/TriangularTransactionLawReference.java
+END
+CertifiedRoles.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CertifiedRoles.java
+END
+From.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/From.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Person.java
+END
+SigAndRefsTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SigAndRefsTimeStamp.java
+END
+Phone.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Phone.java
+END
+DiscountPercent.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DiscountPercent.java
+END
+RailDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/RailDetail.java
+END
+Amenities.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Amenities.java
+END
+ProfileResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ProfileResponse.java
+END
+PolicyViolationJustification.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PolicyViolationJustification.java
+END
+CommitmentTypeIndication.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CommitmentTypeIndication.java
+END
+Shipping.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Shipping.java
+END
+LaborDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/LaborDetail.java
+END
+CRLIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CRLIdentifier.java
+END
+PayableOrderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PayableOrderInfo.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Node.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Transaction.java
+END
+OrganizationRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrganizationRole.java
+END
+Notification.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Notification.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Attachment.java
+END
+Identity.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Identity.java
+END
+CredentialMac.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CredentialMac.java
+END
+ShipNoticeIDInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ShipNoticeIDInfo.java
+END
+StatusUpdateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/StatusUpdateRequest.java
+END
+OtherTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OtherTimeStamp.java
+END
+Manifest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Manifest.java
+END
+PostalAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PostalAddress.java
+END
+CXMLSignedInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CXMLSignedInfo.java
+END
+PaymentMethodPartner.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PaymentMethodPartner.java
+END
+Contractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Contractor.java
+END
+SigPolicyId.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SigPolicyId.java
+END
+Airport.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Airport.java
+END
+DigestAlgAndValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DigestAlgAndValue.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Status.java
+END
+OtherOrderTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OtherOrderTarget.java
+END
+QualifyingProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/QualifyingProperties.java
+END
+KeyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/KeyValue.java
+END
+CanonicalizationMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CanonicalizationMethod.java
+END
+ContractItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ContractItem.java
+END
+Cert.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Cert.java
+END
+MoneyElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/MoneyElement.java
+END
+AvailablePrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AvailablePrice.java
+END
+SupplierDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SupplierDataRequest.java
+END
+SupplierListRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SupplierListRequest.java
+END
+UnsignedDataObjectProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/UnsignedDataObjectProperties.java
+END
+Penalty.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Penalty.java
+END
+Distribution.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Distribution.java
+END
+Identifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Identifier.java
+END
+OrderRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrderRequest.java
+END
+PunchoutDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PunchoutDetail.java
+END
+PersonRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PersonRole.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Contact.java
+END
+CertDigest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CertDigest.java
+END
+SourcingStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SourcingStatus.java
+END
+AirDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AirDetail.java
+END
+PunchOutSetupRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PunchOutSetupRequest.java
+END
+PayableInvoiceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PayableInvoiceInfo.java
+END
+Option.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Option.java
+END
+SpecialHandlingAmount.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SpecialHandlingAmount.java
+END
+SupplierDataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SupplierDataResponse.java
+END
+NoticeRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/NoticeRef.java
+END
+Meal.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Meal.java
+END
+To.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/To.java
+END
+Subscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Subscription.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Request.java
+END
+Discount.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Discount.java
+END
+PlaceElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PlaceElement.java
+END
+DigitalSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DigitalSignature.java
+END
+CounterSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CounterSignature.java
+END
+PaymentTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PaymentTerm.java
+END
+EncapsulatedPKIData.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/EncapsulatedPKIData.java
+END
+Extrinsic.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Extrinsic.java
+END
+SignedSignatureProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignedSignatureProperties.java
+END
+ReturnData.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ReturnData.java
+END
+AirLegOrigin.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AirLegOrigin.java
+END
+CRLRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CRLRef.java
+END
+RoomType.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/RoomType.java
+END
+OwnershipType.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OwnershipType.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Name.java
+END
+ItemDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ItemDetail.java
+END
+OrderTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrderTarget.java
+END
+FeeDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/FeeDetail.java
+END
+ProviderSetupRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ProviderSetupRequest.java
+END
+SignatureTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignatureTimeStamp.java
+END
+AttributeCertificateRefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AttributeCertificateRefs.java
+END
+Money.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Money.java
+END
+OrderMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrderMethods.java
+END
+CRLRefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CRLRefs.java
+END
+Signature.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Signature.java
+END
+OCSPRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OCSPRef.java
+END
+CertificateValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CertificateValues.java
+END
+QualifyingPropertiesReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/QualifyingPropertiesReference.java
+END
+OrderIDInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrderIDInfo.java
+END
+KeyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/KeyInfo.java
+END
+MasterAgreementRequestHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/MasterAgreementRequestHeader.java
+END
+SigPolicyHash.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SigPolicyHash.java
+END
+URLPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/URLPost.java
+END
+SearchDataElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SearchDataElement.java
+END
+SignerRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignerRole.java
+END
+OrderMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrderMethod.java
+END
+SupplierListResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SupplierListResponse.java
+END
+RailLeg.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/RailLeg.java
+END
+SignaturePolicyIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignaturePolicyIdentifier.java
+END
+Comments.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Comments.java
+END
+SignedInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignedInfo.java
+END
+RailLegOrigin.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/RailLegOrigin.java
+END
+Format.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Format.java
+END
+Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Header.java
+END
+AttrAuthoritiesCertValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AttrAuthoritiesCertValues.java
+END
+TelephoneNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/TelephoneNumber.java
+END
+CxmlRequests.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CxmlRequests.java
+END
+OtherValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OtherValues.java
+END
+SigningCertificate.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SigningCertificate.java
+END
+Segment.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Segment.java
+END
+CxmlPaymentMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CxmlPaymentMethod.java
+END
+Territory.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Territory.java
+END
+Organization.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Organization.java
+END
+ArchiveTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ArchiveTimeStamp.java
+END
+RelationshipInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/RelationshipInformation.java
+END
+TaxID.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/TaxID.java
+END
+ItemID.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ItemID.java
+END
+TimeRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/TimeRange.java
+END
+MasterAgreementIDInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/MasterAgreementIDInfo.java
+END
+BrowserFormPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/BrowserFormPost.java
+END
+JobDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/JobDescription.java
+END
+Correspondent.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Correspondent.java
+END
+DataResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DataResponse.java
+END
+SubscriptionContentRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SubscriptionContentRequest.java
+END
+UnsignedProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/UnsignedProperties.java
+END
+Classification.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Classification.java
+END
+ManufacturerName.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ManufacturerName.java
+END
+Vendor.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Vendor.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Response.java
+END
+CarRentalDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CarRentalDetail.java
+END
+AllDataObjectsTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AllDataObjectsTimeStamp.java
+END
+X509IssuerSerial.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/X509IssuerSerial.java
+END
+GetPendingResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/GetPendingResponse.java
+END
+Supplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Supplier.java
+END
+SignatureProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignatureProperty.java
+END
+IndexItemDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/IndexItemDetail.java
+END
+Credential.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Credential.java
+END
+IssuerSerial.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/IssuerSerial.java
+END
+XadesCertRefsElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/XadesCertRefsElement.java
+END
+AccountingSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AccountingSegment.java
+END
+PGPData.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PGPData.java
+END
+Period.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Period.java
+END
+Email.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Email.java
+END
+PCard.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PCard.java
+END
+AssetInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AssetInfo.java
+END
+Reference.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Reference.java
+END
+SignatureValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignatureValue.java
+END
+AutoPublish.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AutoPublish.java
+END
+SubscriptionChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SubscriptionChangeMessage.java
+END
+MasterAgreementReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/MasterAgreementReference.java
+END
+OriginalDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OriginalDocument.java
+END
+SigPolicyQualifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SigPolicyQualifier.java
+END
+PunchOutOrderMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PunchOutOrderMessage.java
+END
+WorkLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/WorkLocation.java
+END
+SearchGroupData.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SearchGroupData.java
+END
+IndexItemPunchout.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/IndexItemPunchout.java
+END
+SignatureProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignatureProperties.java
+END
+TravelDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/TravelDetail.java
+END
+ShipNoticeReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ShipNoticeReference.java
+END
+SupplierSetup.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SupplierSetup.java
+END
+RefsOnlyTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/RefsOnlyTimeStamp.java
+END
+BillTo.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/BillTo.java
+END
+SubscriptionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SubscriptionStatus.java
+END
+CompleteCertificateRefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CompleteCertificateRefs.java
+END
+CountryCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CountryCode.java
+END
+HotelDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/HotelDetail.java
+END
+SupplierList.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SupplierList.java
+END
+PaymentMethodRemittanceInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PaymentMethodRemittanceInformation.java
+END
+SignatureMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignatureMethod.java
+END
+CommitmentTypeQualifiers.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CommitmentTypeQualifiers.java
+END
+SubscriptionStatusUpdateRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SubscriptionStatusUpdateRequest.java
+END
+EncapsulatedCRLValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/EncapsulatedCRLValue.java
+END
+SignedDataObjectProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignedDataObjectProperties.java
+END
+AnnualRevenue.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AnnualRevenue.java
+END
+ReferenceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ReferenceInfo.java
+END
+AuthRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AuthRequest.java
+END
+StateOfIncorporation.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/StateOfIncorporation.java
+END
+AgreementItemOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AgreementItemOut.java
+END
+RailLegDestination.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/RailLegDestination.java
+END
+Supervisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Supervisor.java
+END
+DataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DataRequest.java
+END
+OCSPValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OCSPValues.java
+END
+OCSPRefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OCSPRefs.java
+END
+ItemIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ItemIn.java
+END
+SubscriptionListRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SubscriptionListRequest.java
+END
+SubscriptionContentResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SubscriptionContentResponse.java
+END
+X509Data.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/X509Data.java
+END
+TermsAndConditions.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/TermsAndConditions.java
+END
+InvoiceReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/InvoiceReference.java
+END
+UnsignedSignatureProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/UnsignedSignatureProperties.java
+END
+Contract.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Contract.java
+END
+OrganizationChangeMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrganizationChangeMessage.java
+END
+PaymentStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PaymentStatus.java
+END
+BlanketItemDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/BlanketItemDetail.java
+END
+PaymentInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PaymentInformation.java
+END
+Description.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Description.java
+END
+TaxLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/TaxLocation.java
+END
+OrderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrderInfo.java
+END
+XAdESTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/XAdESTimeStamp.java
+END
+EncapsulatedOCSPValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/EncapsulatedOCSPValue.java
+END
+StartPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/StartPage.java
+END
+SubscriptionVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SubscriptionVersion.java
+END
+CommitmentTypeId.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CommitmentTypeId.java
+END
+CarRentalDropoff.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CarRentalDropoff.java
+END
+Transforms.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Transforms.java
+END
+Creator.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Creator.java
+END
+Country.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Country.java
+END
+DsSPKISexpElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DsSPKISexpElement.java
+END
+BookingClassCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/BookingClassCode.java
+END
+DataObjectFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DataObjectFormat.java
+END
+SupplierOrderInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SupplierOrderInfo.java
+END
+SharedSecret.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SharedSecret.java
+END
+DSAKeyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DSAKeyValue.java
+END
+PaymentMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PaymentMethod.java
+END
+Fax.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Fax.java
+END
+SPUserNotice.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SPUserNotice.java
+END
+CopyRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CopyRequest.java
+END
+Place.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Place.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Address.java
+END
+ItemOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ItemOut.java
+END
+SignedProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignedProperties.java
+END
+Any.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Any.java
+END
+CatalogUploadRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CatalogUploadRequest.java
+END
+InternalID.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/InternalID.java
+END
+CarRentalFee.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CarRentalFee.java
+END
+MasterAgreementRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/MasterAgreementRequest.java
+END
+SupplierLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SupplierLocation.java
+END
+OrderRequestHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrderRequestHeader.java
+END
+DocumentReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/DocumentReference.java
+END
+PaymentProviderInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PaymentProviderInformation.java
+END
+OtherRefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OtherRefs.java
+END
+AirLeg.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AirLeg.java
+END
+ProviderDoneMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ProviderDoneMessage.java
+END
+AirLegDestination.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AirLegDestination.java
+END
+OrganizationDataRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OrganizationDataRequest.java
+END
+ProfileRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ProfileRequest.java
+END
+ObjectIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ObjectIdentifier.java
+END
+IdReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/IdReference.java
+END
+Transform.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Transform.java
+END
+Commodities.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Commodities.java
+END
+CXMLAttachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CXMLAttachment.java
+END
+CertRefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CertRefs.java
+END
+ResponderID.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ResponderID.java
+END
+TaxDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/TaxDetail.java
+END
+Sender.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Sender.java
+END
+CertifiedRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CertifiedRole.java
+END
+IndividualDataObjectsTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/IndividualDataObjectsTimeStamp.java
+END
+TripType.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/TripType.java
+END
+SearchGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SearchGroup.java
+END
+CompleteRevocationRefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CompleteRevocationRefs.java
+END
+IndexItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/IndexItem.java
+END
+TermReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/TermReference.java
+END
+CarrierIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CarrierIdentifier.java
+END
+SpendDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SpendDetail.java
+END
+SignaturePolicyId.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SignaturePolicyId.java
+END
+IndexItemAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/IndexItemAdd.java
+END
+CRLValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CRLValues.java
+END
+InvoiceStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/InvoiceStatus.java
+END
+URL.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/URL.java
+END
+ClaimedRoles.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/ClaimedRoles.java
+END
+StartPageElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/StartPageElement.java
+END
+PaymentRelationshipInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PaymentRelationshipInformation.java
+END
+OCSPIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/OCSPIdentifier.java
+END
+Followup.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Followup.java
+END
+Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Index.java
+END
+AttributeRevocationRefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/AttributeRevocationRefs.java
+END
+CxmlAccounting.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CxmlAccounting.java
+END
+PunchOutOrderMessageHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PunchOutOrderMessageHeader.java
+END
+SubscriptionContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SubscriptionContent.java
+END
+SupplierID.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SupplierID.java
+END
+Industry.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Industry.java
+END
+InvoiceIDInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/InvoiceIDInfo.java
+END
+CarRentalPickup.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/CarRentalPickup.java
+END
+SearchAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/SearchAttribute.java
+END
+RSAKeyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/RSAKeyValue.java
+END
+Path.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Path.java
+END
+EncapsulatedTimeStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/EncapsulatedTimeStamp.java
+END
+Tax.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/Tax.java
+END
+PayableMasterAgreementInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/repos/!svn/ver/43004/interface_cxmlpunchout/trunk/project_cxmlpunchoutinterface/core-cxmlpunchout-interface/src/main/java/com/cxmlpunchout/sebo/cxml/PayableMasterAgreementInfo.java
+END

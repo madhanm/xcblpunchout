@@ -1,0 +1,151 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.cxmlpunchout</groupId>
+  <artifactId>webapp-cxmlpunchout-interface</artifactId>
+  <packaging>war</packaging>
+  <version>1.0.1.4-SNAPSHOT</version>
+  <name>webapp-cxmlpunchout-interface</name>
+  <url>http://maven.apache.org</url>
+
+  <parent>
+      <groupId>com.cxmlpunchout</groupId>
+      <artifactId>project_cxmlpunchoutinterface</artifactId>
+      <version>1.0.1.4-SNAPSHOT</version>
+ </parent>
+
+  <dependencies>
+   <dependency>
+      	<groupId>com.cxmlpunchout</groupId>
+  		<artifactId>core-cxmlpunchout-interface</artifactId>
+  		<version>1.0.1.4-SNAPSHOT</version>
+    </dependency>
+
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>3.8.1</version>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+
+
+  <build>
+        <finalName>${war.name}</finalName>
+        <defaultGoal>install</defaultGoal>
+        <plugins>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <configuration>
+                    <filteringDeploymentDescriptors>true</filteringDeploymentDescriptors>
+                </configuration>
+            </plugin>
+
+        </plugins>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>true</filtering>
+            </resource>
+        </resources>
+    </build>
+
+     <profiles>
+        <!--
+            ==============================================================================================================
+            === Development Settings Profile
+            ==============================================================================================================
+            Use "-P dev1" for build in development environment
+            ==============================================================================================================
+        -->
+        <profile>
+            <id>dev1</id>
+            <properties>
+            	<war.name>cxmlpunchoutdev-se</war.name>
+	            <grainger.cxmlpunchout.order.url>https://ebopswebqa.qa2-sap.grainger.com/integration/inbound/processCXML</grainger.cxmlpunchout.order.url>
+				<mitsucat.cxmlpunchout.order.url>http://tradingpartner.qa.ehub.lifttrucksolutions.com/PurchaseOrderService.svc/submit</mitsucat.cxmlpunchout.order.url>
+				<napa.cxmlpunchout.order.url>https://prd1.napaibiz.com/Orders/AribaOrder.aspx</napa.cxmlpunchout.order.url>
+				<grainger.cxmlpunchout.dunsnumber>159148746</grainger.cxmlpunchout.dunsnumber>
+				<mitsucat.cxmlpunchout.dunsnumber>79-045-1231</mitsucat.cxmlpunchout.dunsnumber>
+				<napa.cxmlpunchout.dunsnumber>006924948</napa.cxmlpunchout.dunsnumber>
+	            <logfilename>cxmlpunchout-interface-dev-se.log</logfilename>
+				<priority.value>DEBUG</priority.value>
+            </properties>
+        </profile>
+
+          <!--
+            ==============================================================================================================
+            === Development Settings Profile
+            ==============================================================================================================
+            Use "-P qa1" for build in development environment
+            ==============================================================================================================
+        -->
+
+         <profile>
+            <id>qa1</id>
+            <properties>
+				<war.name>cxmlpunchout-qa1-se</war.name>
+	            <grainger.cxmlpunchout.order.url>https://ebopswebqa.qa2-sap.grainger.com/integration/inbound/processCXML</grainger.cxmlpunchout.order.url>
+				<mitsucat.cxmlpunchout.order.url>http://tradingpartner.qa.ehub.lifttrucksolutions.com/PurchaseOrderService.svc/submit</mitsucat.cxmlpunchout.order.url>
+				<imperial.cxmlpunchout.order.url>https://www.imperialsupplies.com/ariba/receiveOrderRequest.asp</imperial.cxmlpunchout.order.url>
+				<napa.cxmlpunchout.order.url>https://prd1.napaibiz.com/Orders/AribaOrder.aspx</napa.cxmlpunchout.order.url>
+				<grainger.cxmlpunchout.dunsnumber>159148746</grainger.cxmlpunchout.dunsnumber>
+				<mitsucat.cxmlpunchout.dunsnumber>79-045-1231</mitsucat.cxmlpunchout.dunsnumber>
+				<imperial.cxmlpunchout.dunsnumber>023247661</imperial.cxmlpunchout.dunsnumber>
+				<napa.cxmlpunchout.dunsnumber>006924948</napa.cxmlpunchout.dunsnumber>
+	            <logfilename>cxmlpunchout-interface-qa1-se.log</logfilename>
+				<priority.value>DEBUG</priority.value>
+            </properties>
+        </profile>
+
+		<profile>
+            <id>ca1</id>
+            <properties>
+				<war.name>cxmlpunchout-ca1-se</war.name>
+	            <grainger.cxmlpunchout.order.url>https://ebopswebqa.qa2-sap.grainger.com/integration/inbound/processCXML</grainger.cxmlpunchout.order.url>
+				<mitsucat.cxmlpunchout.order.url>http://tradingpartner.qa.ehub.lifttrucksolutions.com/PurchaseOrderService.svc/submit</mitsucat.cxmlpunchout.order.url>
+				<imperial.cxmlpunchout.order.url>https://www.imperialsupplies.com/ariba/receiveOrderRequest.asp</imperial.cxmlpunchout.order.url>
+				<napa.cxmlpunchout.order.url>https://prd1.napaibiz.com/Orders/AribaOrder.aspx</napa.cxmlpunchout.order.url>
+				<grainger.cxmlpunchout.dunsnumber>159148746</grainger.cxmlpunchout.dunsnumber>
+				<mitsucat.cxmlpunchout.dunsnumber>79-045-1231</mitsucat.cxmlpunchout.dunsnumber>
+				<imperial.cxmlpunchout.dunsnumber>023247661</imperial.cxmlpunchout.dunsnumber>
+				<napa.cxmlpunchout.dunsnumber>006924948</napa.cxmlpunchout.dunsnumber>
+	            <logfilename>cxmlpunchout-interface-ca1-se.log</logfilename>
+				<priority.value>DEBUG</priority.value>
+            </properties>
+        </profile>
+
+		<profile>
+            <id>prod</id>
+            <properties>
+				<war.name>cxmlpunchout-se</war.name>
+	           <grainger.cxmlpunchout.order.url>https://ebopsweb.sap.grainger.com/integration/inbound/processCXML</grainger.cxmlpunchout.order.url>
+				<mitsucat.cxmlpunchout.order.url>https://tradingpartner.ehub.lifttrucksolutions.com/PurchaseOrderService.svc/submit</mitsucat.cxmlpunchout.order.url>
+				<imperial.cxmlpunchout.order.url>https://www.imperialsupplies.com/ariba/receiveOrderRequest.asp</imperial.cxmlpunchout.order.url>
+				<napa.cxmlpunchout.order.url>https://prd1.napaibiz.com/Orders/AribaOrder.aspx</napa.cxmlpunchout.order.url>
+				<grainger.cxmlpunchout.dunsnumber>159148746</grainger.cxmlpunchout.dunsnumber>
+				<mitsucat.cxmlpunchout.dunsnumber>79-045-1231</mitsucat.cxmlpunchout.dunsnumber>
+				<imperial.cxmlpunchout.dunsnumber>023247661</imperial.cxmlpunchout.dunsnumber>
+				<napa.cxmlpunchout.dunsnumber>006924948</napa.cxmlpunchout.dunsnumber>
+	            <logfilename>cxmlpunchout-interface-se.log</logfilename>
+				<priority.value>INFO</priority.value>
+            </properties>
+        </profile>
+
+    </profiles>
+
+
+    <properties>
+        <!-- Project settings -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <!--  war name. May be overridden in environment profile -->
+        <war.name>cxmlpunchout-se</war.name>
+		<logfilename>cxmlpunchout-se.log</logfilename>
+        <!-- "In-container" test startup arguments -->
+        <cargo.jvmargs />
+
+    </properties>
+
+</project>
+

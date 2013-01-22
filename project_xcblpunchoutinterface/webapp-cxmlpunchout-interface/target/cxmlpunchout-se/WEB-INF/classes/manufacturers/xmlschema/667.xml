@@ -1,0 +1,132 @@
+<!DOCTYPE cXML SYSTEM "http://xml.cxml.org/schemas/cXML/1.2.008/cXML.dtd"[]>
+<cXML xml:lang="cxml.lang" version="1.2.008" timestamp="cxml.timestamp"
+	payloadID="cxml.payloadId">
+	<Header>
+		<From>
+			<Credential domain="NetworkID">
+				<Identity>cxml.username</Identity>
+			</Credential>
+		</From>
+		<To>
+			<Credential domain="">
+				<Identity />
+			</Credential>
+		</To>
+		<Sender>
+			<Credential domain="NetworkID">
+				<Identity>cxml.username</Identity>
+				<SharedSecret>cxml.password</SharedSecret>
+			</Credential>
+			<UserAgent>SmartEquip</UserAgent>
+		</Sender>
+	</Header>
+	<Request deploymentMode="production">
+		<OrderRequest>
+			<OrderRequestHeader type="new" orderID="cxml.po"
+				orderDate="cxml.reqdate" shipComplete="cxml.shiptype">
+				<Total>
+					<Money currency="cxml.curr">cxml.total</Money>
+				</Total>
+				<ShipTo>
+					<Address addressID="cxml.locationID">
+						<Name xml:lang="cxml.lang">cxml.name</Name>
+						<PostalAddress name="cxml.default.value">
+							<DeliverTo>cxml.name</DeliverTo>
+							<Street>cxml.addr1</Street>
+							<Street>cxml.addr2</Street>
+							<City>cxml.city</City>
+							<State>cxml.state</State>
+							<PostalCode>cxml.zip</PostalCode>
+							<Country isoCountryCode="cxml.cntry" />
+						</PostalAddress>
+						<Email name="cxml.shipTo.email.name">cxml.email</Email>
+						<Phone>
+							<TelephoneNumber>
+								<CountryCode isoCountryCode="cxml.cntry" />
+								<AreaOrCityCode />
+								<Number>cxml.phone</Number>
+							</TelephoneNumber>
+						</Phone>
+						<Fax>
+							<TelephoneNumber>
+								<CountryCode isoCountryCode="cxml.cntry" />
+								<AreaOrCityCode></AreaOrCityCode>
+								<Number>cxml.replyto</Number>
+							</TelephoneNumber>
+						</Fax>
+					</Address>
+				</ShipTo>
+				<BillTo>
+					<Address addressID="cxml.locationID">
+						<Name xml:lang="cxml.lang">cxml.bname</Name>
+						<PostalAddress name="cxml.default.value">
+							<DeliverTo>cxml.bname</DeliverTo>
+							<Street>cxml.baddr1</Street>
+							<Street>cxml.baddr2</Street>
+							<City>cxml.bcity</City>
+							<State>cxml.bstate</State>
+							<PostalCode>cxml.bzip</PostalCode>
+							<Country isoCountryCode="cxml.bcountry" />
+						</PostalAddress>
+						<Email name="default">cxml.email</Email>
+						<Phone>
+							<TelephoneNumber>
+								<CountryCode isoCountryCode="cxml.bcountry" />
+								<AreaOrCityCode />
+								<Number>cxml.bphone</Number>
+							</TelephoneNumber>
+						</Phone>
+					</Address>
+				</BillTo>
+				<Shipping>
+					<Money currency="cxml.curr">0</Money>
+					<Description xml:lang="cxml.lang" />
+				</Shipping>
+				<Tax>
+					<Money currency="cxml.curr">0</Money>
+					<Description xml:lang="cxml.lang">Sales Tax</Description>
+				</Tax>
+				<Payment>
+					<PCard expiration="" number="" />
+				</Payment>
+				<Comments>cxml.comment</Comments>
+			</OrderRequestHeader>
+			<ItemOut requestedDeliveryDate="cxml.reqdate" quantity="cxml.qty"
+				lineNumber="cxml.itemnum">
+				<ItemID>
+					<SupplierPartID>cxml.partnum</SupplierPartID>
+					<SupplierPartAuxiliaryID>cxml.supplierorderid
+					</SupplierPartAuxiliaryID>
+				</ItemID>
+				<ItemDetail>
+					<UnitPrice>
+						<Money currency="cxml.curr">cxml.netprice</Money>
+					</UnitPrice>
+					<Description xml:lang="cxml.lang">cxml.partdesc</Description>
+					<UnitOfMeasure>cxml.uom</UnitOfMeasure>
+					<Classification domain="" />
+					<ManufacturerPartID />
+					<ManufacturerName />
+					<URL />
+				</ItemDetail>
+				<Shipping>
+					<Money currency="cxml.curr">0</Money>
+					<Description xml:lang="cxml.lang" />
+				</Shipping>
+				<Tax>
+					<Money currency="cxml.curr">0</Money>
+					<Description xml:lang="cxml.lang">Sales Tax</Description>
+				</Tax>
+				<Distribution>
+					<Accounting name="DistributionCharge">
+						<Segment type="" id="" description="" />
+					</Accounting>
+					<Charge>
+						<Money currency="cxml.curr" />
+					</Charge>
+				</Distribution>
+				<Comments>cxml.pricomment</Comments>
+			</ItemOut>
+		</OrderRequest>
+	</Request>
+</cXML>
